@@ -1,7 +1,7 @@
 {
-	"prefix": "?",
-	"token": "YOUR_TOKEN_BOT",
-	"ownerid": "YOUR_CLIENT_ID",
+	"prefix": "++",
+	"token": "Nzc0OTY5NDI0MzMxNDA3Mzgw.X6fghA.YUXSMFFbsuIwTvVKN0oZXYDl-z0",
+	"ownerid": "592649371330543626",
 	"nodes": [
 		{ "host": "localhost", "port": 8000, "password": "changeyourpassword" }
 	]
